@@ -208,3 +208,8 @@ __marimo__/
 
 # LangGraph 챗봇 대화 체크포인트 (SQLite)
 data/
+
+# MySQL 데이터, 업로드 사진, macOS 파일
+mysql/data/
+static/uploads/
+.DS_Store
